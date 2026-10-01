@@ -1,5 +1,6 @@
 {
   "name": "react-vite-tailwind",
+  "description": "A 3D cube chess game with 384 squares, two-player matches, four-player teams, and optional CPU opponents. Built with React and Three.js.",
   "private": true,
   "version": "0.0.0",
   "type": "module",
